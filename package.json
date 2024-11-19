@@ -1,6 +1,6 @@
 {
   "name": "@aminya/cmake-ts",
-  "version": "0.3.0-aminya.7",
+  "version": "0.3.0-aminya.8",
   "description": "cmake-js rewrite in typescript to support advanced build configurations",
   "main": "build/lib.js",
   "bin": "build/main.js",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmbeddedEnterprises/cmake-ts.git"
+    "url": "git+https://github.com/aminya/cmake-ts.git"
   },
   "keywords": [
     "cmake",
